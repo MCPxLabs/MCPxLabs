@@ -41,13 +41,7 @@ We are just getting started — follow us as we roll out advanced AI Blockchain 
 
 > 🧠 *Pioneering a future where AI agents own, trade, and build on-chain.*
 
----
 
-# 📈 Git Stats
-
-
-
-<br>
 
 <p align="center">
   <a href="https://github.com/MCPxLabs">
