@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=MCPxLabs&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="MCPxLabs Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97e60&height=200&section=header&text=MCPxLabs&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="MCPxLabs Banner"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <br>
 
-# ✨ About MCPxLabs
+# ✨ About Us
 
 **MCPxLabs** is dedicated to bridging the power of **Artificial Intelligence** with the revolutionary capabilities of **Blockchain technology**.
 
@@ -26,7 +26,7 @@
   Building tools that enable AI agents to interact with decentralized systems seamlessly — starting with Solana.
 
 - 🛠️ **Current Project**:  
-  [**MCP Trading Agent**](https://github.com/MCPxLabs/mcpsol) — A Model Context Protocol (MCP) server connecting Claude AI with the Solana blockchain for real-time blockchain operations, wallet management, token creation, NFT minting, and decentralized trading.
+  [**MCP Trading Agent**](https://github.com/MCPxLabs/mcp-trading-agent) — A Model Context Protocol (MCP) server connecting Claude AI with the Solana blockchain for real-time blockchain operations, wallet management, token creation, NFT minting, and decentralized trading.
 
 - 🔥 **What We Believe In**:  
   - Open-source innovation 🤝  
@@ -71,5 +71,5 @@ We are just getting started — follow us as we roll out advanced AI Blockchain 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97e60&height=150&section=footer"/>
 </p>
