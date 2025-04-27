@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>🚀 Empowering AI Agents on the Blockchain 🚀</b>
+  <b> Empowering AI Agents on the Blockchain </b>
 </p>
 
 <br>
@@ -59,16 +59,7 @@ We are just getting started — follow us as we roll out advanced AI Blockchain 
   </a>
 </p>
 
----
 
-# 📩 Contact
-
-**Let's build the future together!** 🚀
-
-- ✉️ Email: **mcp.xlabs@gmail.com**  
-- 🌐 [GitHub: MCPxLabs](https://github.com/MCPxLabs)
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f97e60&height=150&section=footer"/>
