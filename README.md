@@ -26,7 +26,7 @@
   Building tools that enable AI agents to interact with decentralized systems seamlessly — starting with Solana.
 
 - 🛠️ **Current Project**:  
-  [**MCP Trading Agent**](https://github.com/MCPxLabs/mcp-trading-agent) — A Model Context Protocol (MCP) server connecting Claude AI with the Solana blockchain for real-time blockchain operations, wallet management, token creation, NFT minting, and decentralized trading.
+  [**MCP Trading Agent**](https://github.com/MCPxLabs/mcpsol) — A Model Context Protocol (MCP) server connecting Claude AI with the Solana blockchain for real-time blockchain operations, wallet management, token creation, NFT minting, and decentralized trading.
 
 - 🔥 **What We Believe In**:  
   - Open-source innovation 🤝  
