@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b> Empowering AI Agents on the Blockchain </b>
+  <b> Empowering AI Agents on the Solana Blockchain via Claude Desktop </b>
 </p>
 
 <br>
@@ -18,7 +18,7 @@
 
 <br>
 
-# ✨ About Us
+# About
 
 **MCPxLabs** is dedicated to bridging the power of **Artificial Intelligence** with the revolutionary capabilities of **Blockchain technology**.
 
