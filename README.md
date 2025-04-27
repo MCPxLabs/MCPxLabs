@@ -43,22 +43,17 @@ We are just getting started — follow us as we roll out advanced AI Blockchain 
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Git Stats
 
-<p align="center">
-  <a href="https://github.com/MCPxLabs">
-    <img src="https://github-readme-stats.vercel.app/api?username=MCPxLabs&show_icons=true&theme=radical&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" alt="MCPxLabs GitHub Stats"/>
-  </a>
-</p>
+
 
 <br>
 
 <p align="center">
   <a href="https://github.com/MCPxLabs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCPxLabs&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCPxLabs&layout=donut&theme=radical&hide_border=true" alt="Top Languages"/>
   </a>
 </p>
-
 
 
 <p align="center">
