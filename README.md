@@ -36,7 +36,7 @@
 ---
 # SPL Token Trading Demo
 <div align="center">
-<video>https://github.com/user-attachments/assets/14b36e6e-390d-457a-a735-963071985c0e</video>
+https://github.com/user-attachments/assets/14b36e6e-390d-457a-a735-963071985c0e
 </div>
 
 # 🌟 Explore Our Work
