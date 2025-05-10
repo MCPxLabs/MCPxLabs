@@ -42,8 +42,7 @@ All within a **modular, trustless architecture**. ZKOSIS transforms complex mach
 
 ### 🧬 The ZKOSIS Pipeline
 
-```mermaid
-graph TD
+
     A([🧑‍💻 User Input])
     B([🖥️ MCP Server])
     C([🧠 ezkl Inference])
@@ -52,13 +51,7 @@ graph TD
     F([📜 AttestManager.sol])
     G([🧾 On-chain Log])
 
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-```
+
 
 ### 🔁 Step-by-Step Breakdown
 
