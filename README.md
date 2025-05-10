@@ -37,12 +37,17 @@ All within a **modular, trustless architecture**. ZKOSIS transforms complex mach
 
 ### 🧬 The ZKOSIS Pipeline
 
+
+## ⚙️ How It Works
+
+### 🧬 The ZKOSIS Pipeline
+
 ```mermaid
 graph TD
     A([🧑‍💻 User Input])
     B([🖥️ MCP Server])
     C([🧠 ezkl Inference])
-    D([🧪 ZK Proof<br/>(Groth16 / PLONK)])
+    D([🧪 ZK Proof\n(Groth16 / PLONK)])
     E([🛡️ Verifier.sol])
     F([📜 AttestManager.sol])
     G([🧾 On-chain Log])
@@ -54,6 +59,19 @@ graph TD
     E --> F
     F --> G
 ```
+
+### 🔁 Step-by-Step Breakdown
+
+- **🧑‍💻 User Input**: A prompt, request, or data sample provided by a user
+- **🖥️ MCP Server**: Secure processing node running the inference model
+- **🧠 ezkl Inference**: Runs predictions using zero-knowledge-friendly neural nets
+- **🧪 ZK Proof Generation**: Generates Groth16 or PLONK proofs of the computation
+- **🛡️ Verifier.sol**: Validates the zk-proof on Ethereum
+- **📜 AttestManager.sol**: Attests and logs verified results with integrity
+- **🧾 On-chain Log**: Public, immutable record accessible via Etherscan-compatible logs
+
+> ⚡ From private inference to public proof — ZKOSIS turns each prediction into an auditable, cryptographically sealed truth.
+
 
 ### 🔁 Step-by-Step Breakdown
 
