@@ -33,16 +33,6 @@ All within a **modular, trustless architecture**. ZKOSIS transforms complex mach
 
 
 
-## ⚙️ How It Works
-
-### 🧬 The ZKOSIS Pipeline
-
-
-## ⚙️ How It Works
-
-### 🧬 The ZKOSIS Pipeline
-
-
     A([🧑‍💻 User Input])
     B([🖥️ MCP Server])
     C([🧠 ezkl Inference])
