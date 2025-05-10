@@ -1,58 +1,64 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97e60&height=200&section=header&text=Sir_Heeb&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="MCPxLabs Banner"/>
-</p>
+<h1 align="center">
+  ⚡ ZKOSIS ⚡  
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Zero-Knowledge+AI+Attestation+for+Ethereum;Verifiable+AI+Inference%2C+On-Chain" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <b> Empowering AI Agents on the Solana Blockchain via Claude Desktop </b>
+  <img src="https://img.shields.io/badge/zk-SNARKs-purple?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Inference-ezkl-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-Ethereum-black?style=flat-square&logo=solidity" />
+  <img src="https://img.shields.io/badge/zk-Proof%20Verified-green?style=flat-square" />
 </p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/MCPxLabs">
-    <img src="https://img.shields.io/badge/Blockchain-Solana-14f195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Badge"/>
-    <img src="https://img.shields.io/badge/AI-Model%20Context%20Protocol-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="MCP Badge"/>
-    <img src="https://img.shields.io/badge/License-ISC-9cf?style=for-the-badge" alt="License Badge"/>
-  </a>
-</p>
-
-<br>
-
-# About
-
-**MCPxLabs** is dedicated to bridging the power of **Artificial Intelligence** with the revolutionary capabilities of **Blockchain technology**.
-
-- 🌐 **Focus**:  
-  Building tools that enable AI agents to interact with decentralized systems seamlessly — starting with Solana.
-
-- 🛠️ **Current Project**:  
-  [**MCP Trading Agent**](https://github.com/MCPxLabs/mcpsol) — A Model Context Protocol (MCP) server connecting Claude AI with the Solana blockchain for real-time blockchain operations, wallet management, token creation, NFT minting, and decentralized trading.
-
-- 🔥 **What We Believe In**:  
-  - Open-source innovation 🤝  
-  - Secure, scalable architecture 🔒  
-  - Empowering AI to shape the future of decentralized finance 🌍  
 
 ---
-# SPL Token Trading Demo<div align="center">
-https://github.com/user-attachments/assets/14b36e6e-390d-457a-a735-963071985c0e
+
+## 🔍 What is ZKOSIS?
+
+**Verifiable AI. On-chain. Encrypted.**
+
+ZKOSIS is a next-gen compute protocol that combines:
+
+- 🧠 **AI inference**
+- 🔐 **zk-SNARK proofs**
+- 📜 **Smart contract attestation**
+
+All within a **modular, trustless architecture**. ZKOSIS transforms complex machine learning predictions into **cryptographically verifiable**, **chain-anchored** outputs.
+
+---
+
+## ⚙️ How it Works
+
+### 🧬 The ZKOSIS Stack
 
 
-# 🌟 Explore Our Work
+graph LR
+A[User Input] --> B[MCP Server]
+B --> C[ezkl Inference]
+C --> D[ZK Proof (Groth16 / PLONK)]
+D --> E[Verifier.sol]
+E --> F[AttestManager.sol]
+F --> G[On-chain Log]
+🧠 Model Processing
+Inference via ezkl on a secure MCP server
 
-We are just getting started — follow us as we roll out advanced AI Blockchain agents, SDKs, and powerful integrations!
+zk-SNARK generation using Groth16 or PLONK
 
-> 🧠 *Pioneering a future where AI agents own, trade, and build on-chain.*
+Ethereum smart contract verification
+
+📜 Public attestation viewable on Etherscan
+
+🚀 Why ZKOSIS?
+✅ Full integrity AI predictions
+
+🔎 Transparent model computation
+
+⛓️ On-chain verified inference
+
+🔐 Zero-knowledge privacy layer
+
+🌐 Connect With Us
 
 
 
-<p align="center">
-  <a href="https://github.com/MCPxLabs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCPxLabs&layout=donut&theme=radical&hide_border=true" alt="Top Languages"/>
-  </a>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97e60&height=150&section=footer"/>
-</p>
+✨ Turning AI into proof — one prediction at a time.
